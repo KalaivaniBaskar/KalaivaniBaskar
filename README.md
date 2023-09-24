@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KalaivaniBaskar
-- 👀 I’m interested in full stack, python, data analysis, data science
-- 🌱 I’m currently learning python and full stack
-- 💞️ I’m looking to collaborate on full stack, python
-- 📫 How to reach me ... 
+- 👀 I’m interested in full stack, MERN, javascript, Python, Java
+- 🌱 I’m currently learning typescript, python
+- 💞️ I’m looking to collaborate on MERN stack projects
+- 📫Reach me @kalaivani.working@gmail.com
 
 <!---
 KalaivaniBaskar/KalaivaniBaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
