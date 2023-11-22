@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalaivaniBaskar
 - 👀 I’m interested in full stack, MERN, javascript, Python, Java
-- 🌱 I’m currently learning typescript, python
+- 🌱 I’m currently learning typescript, Python, C++
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫Reach me @kalaivani.working@gmail.com
 
