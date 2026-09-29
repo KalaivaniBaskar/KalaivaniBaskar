@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @KalaivaniBaskar
-- 👀 I’m interested in AI/ML, writing Kernels for AI accelerators, LLVM Compiler optimmization.
+- 👀 I’m interested in C++, Python, AI/ML, writing Kernels for AI accelerators, LLVM Compiler and SIMD optimization.
+- 🌱 I’m currently learning LLVM IR, building and running AI/ML models.
+- 💞️ I’m looking to collaborate on projects involving Deep learning NLP, RAG, CNN, Data Analysis.
 - 📫Reach me @kalaivani.working@gmail.com
 
 <!---
